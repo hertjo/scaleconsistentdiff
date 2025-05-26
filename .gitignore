@@ -7,4 +7,3 @@ sample/*
 data/*
 __pycache__/*
 tmp_src/*
-*.txt
